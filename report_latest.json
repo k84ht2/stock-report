@@ -1,12 +1,13 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-03-12T18:38:39+09:00",
+  "generated_at_sheet": "2026-03-12T19:05:13+09:00",
   "report": {
-    "generated_at": "2026-03-12T18:39:31+09:00",
+    "generated_at": "2026-03-12T19:06:19+09:00",
     "mode": "report",
     "items": [
       {
         "code": "2678",
+        "company_name": "ASKUL Corporation",
         "type": "hold",
         "price_now": 1208,
         "prev_close": 1224,
@@ -38,10 +39,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "2681",
+        "company_name": "Geo Holdings Corporation",
         "type": "hold",
         "price_now": 1722,
         "prev_close": 1758,
@@ -70,10 +72,11 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4755",
+        "company_name": "Rakuten Group, Inc.",
         "type": "hold",
         "price_now": 783.6,
         "prev_close": 798.1,
@@ -104,10 +107,11 @@
           "60日高値から-12%超",
           "長期線SMA200も下回る"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4928",
+        "company_name": "Noevir Holdings Co., Ltd.",
         "type": "hold",
         "price_now": 4565,
         "prev_close": 4605,
@@ -136,10 +140,11 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "6203",
+        "company_name": "Howa Machinery, Ltd.",
         "type": "hold",
         "price_now": 1763,
         "prev_close": 1735,
@@ -168,10 +173,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "6758",
+        "company_name": "Sony Group Corporation",
         "type": "hold",
         "price_now": 3459,
         "prev_close": 3446,
@@ -203,10 +209,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "6965",
+        "company_name": "Hamamatsu Photonics K.K.",
         "type": "hold",
         "price_now": 2000.5,
         "prev_close": 2099,
@@ -235,10 +242,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8088",
+        "company_name": "Iwatani Corporation",
         "type": "hold",
         "price_now": 1813,
         "prev_close": 1752,
@@ -267,10 +275,11 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8136",
+        "company_name": "Sanrio Company, Ltd.",
         "type": "hold",
         "price_now": 5413,
         "prev_close": 5637,
@@ -301,10 +310,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "9424",
+        "company_name": "Japan Communications Inc.",
         "type": "hold",
         "price_now": 131,
         "prev_close": 135,
@@ -336,10 +346,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "5711",
+        "company_name": "Mitsubishi Materials Corporation",
         "type": "watch",
         "price_now": 5091,
         "prev_close": 5260,
@@ -368,10 +379,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "6981",
+        "company_name": "Murata Manufacturing Co., Ltd.",
         "type": "watch",
         "price_now": 3720,
         "prev_close": 3758,
@@ -400,10 +412,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "7203",
+        "company_name": "Toyota Motor Corporation",
         "type": "watch",
         "price_now": 3467,
         "prev_close": 3510,
@@ -432,10 +445,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "7974",
+        "company_name": "Nintendo Co., Ltd.",
         "type": "watch",
         "price_now": 10150,
         "prev_close": 9932,
@@ -467,10 +481,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8002",
+        "company_name": "Marubeni Corporation",
         "type": "watch",
         "price_now": 5375,
         "prev_close": 5469,
@@ -499,10 +514,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8591",
+        "company_name": "ORIX Corporation",
         "type": "watch",
         "price_now": 4845,
         "prev_close": 4950,
@@ -531,10 +547,11 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "1662",
+        "company_name": "Japan Petroleum Exploration Co., Ltd.",
         "type": "hold",
         "price_now": 2495,
         "prev_close": 2443,
@@ -563,10 +580,11 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "3046",
+        "company_name": "JINS HOLDINGS Inc.",
         "type": "hold",
         "price_now": 5400,
         "prev_close": 5530,
@@ -597,10 +615,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4477",
+        "company_name": "BASE,Inc.",
         "type": "hold",
         "price_now": 310,
         "prev_close": 324,
@@ -631,10 +650,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8630",
+        "company_name": "Sompo Holdings, Inc.",
         "type": "hold",
         "price_now": 5761,
         "prev_close": 5906,
@@ -663,10 +683,11 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8766",
+        "company_name": "Tokio Marine Holdings, Inc.",
         "type": "hold",
         "price_now": 5878,
         "prev_close": 6016,
@@ -697,10 +718,11 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "3563",
+        "company_name": "Food & Life Companies Ltd.",
         "type": "watch",
         "price_now": 9387,
         "prev_close": 9537,
@@ -729,10 +751,11 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "1605",
+        "company_name": "Inpex Corporation",
         "type": "hold",
         "price_now": 4299,
         "prev_close": 4171,
@@ -759,10 +782,11 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 4
+        "signal_age": 5
       },
       {
         "code": "7867",
+        "company_name": "TOMY Company, Ltd.",
         "type": "hold",
         "price_now": 2769.5,
         "prev_close": 2815,
@@ -793,10 +817,11 @@
           "SMA75<=SMA200: BUY見送り",
           "SMA25<=SMA75: BUY見送り"
         ],
-        "signal_age": 4
+        "signal_age": 5
       },
       {
         "code": "9101",
+        "company_name": "Nippon Yusen Kabushiki Kaisha",
         "type": "hold",
         "price_now": 5739,
         "prev_close": 5720,
@@ -825,10 +850,11 @@
         "reason": [
           "SMA75<=SMA200: BUY見送り"
         ],
-        "signal_age": 4
+        "signal_age": 5
       },
       {
         "code": "9432",
+        "company_name": "NTT, Inc.",
         "type": "hold",
         "price_now": 155.7,
         "prev_close": 155.5,
@@ -859,10 +885,11 @@
           "SMA25<=SMA75: BUY見送り",
           "SMA25傾き<=0: BUY見送り"
         ],
-        "signal_age": 4
+        "signal_age": 5
       },
       {
         "code": "6752",
+        "company_name": "Panasonic Holdings Corporation",
         "type": "watch",
         "price_now": 2612,
         "prev_close": 2642.5,
@@ -889,234 +916,13 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 4
+        "signal_age": 5
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "",
-      "items": [
-        {
-          "code": "1662",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超"
-          ]
-        },
-        {
-          "code": "2678",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "60日高値から-12%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "2681",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続"
-          ]
-        },
-        {
-          "code": "3046",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "4477",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "4755",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "60日高値から-12%超",
-            "長期線SMA200も下回る"
-          ]
-        },
-        {
-          "code": "4928",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続"
-          ]
-        },
-        {
-          "code": "6203",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        },
-        {
-          "code": "6758",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "60日高値から-12%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "6965",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        },
-        {
-          "code": "8088",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続"
-          ]
-        },
-        {
-          "code": "8136",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "8630",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超"
-          ]
-        },
-        {
-          "code": "8766",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "9424",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "60日高値から-12%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "3563",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超"
-          ]
-        },
-        {
-          "code": "5711",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        },
-        {
-          "code": "6981",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        },
-        {
-          "code": "7203",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        },
-        {
-          "code": "7974",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "60日高値から-12%超",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "8002",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        },
-        {
-          "code": "8591",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "60日高値から-12%超"
-          ]
-        }
-      ]
+      "message": "signal変化なし",
+      "items": []
     }
   }
 }
