@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-03-12T22:30:13+09:00",
+  "generated_at_sheet": "2026-03-13T07:46:58+09:00",
   "report": {
-    "generated_at": "2026-03-12T22:31:05+09:00",
+    "generated_at": "2026-03-13T07:47:47+09:00",
     "mode": "report",
     "items": [
       {
@@ -39,7 +39,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "2681",
@@ -72,7 +72,7 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "4755",
@@ -107,7 +107,7 @@
           "60日高値から-12%超",
           "長期線SMA200も下回る"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "4928",
@@ -140,7 +140,7 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "6203",
@@ -173,7 +173,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "6758",
@@ -209,7 +209,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "6965",
@@ -242,7 +242,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "8136",
@@ -277,7 +277,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "9424",
@@ -313,7 +313,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "5711",
@@ -346,7 +346,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "6981",
@@ -379,7 +379,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "7203",
@@ -412,7 +412,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "7974",
@@ -448,7 +448,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "8002",
@@ -481,7 +481,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "8591",
@@ -514,7 +514,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "1662",
@@ -547,7 +547,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "3046",
@@ -582,7 +582,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "4477",
@@ -617,7 +617,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "8088",
@@ -650,7 +650,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8630",
@@ -683,7 +683,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "8766",
@@ -718,7 +718,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "3563",
@@ -751,7 +751,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "1605",
@@ -782,7 +782,7 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "7867",
@@ -817,7 +817,7 @@
           "SMA75<=SMA200: BUY見送り",
           "SMA25<=SMA75: BUY見送り"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "9101",
@@ -850,7 +850,7 @@
         "reason": [
           "SMA75<=SMA200: BUY見送り"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "9432",
@@ -885,7 +885,7 @@
           "SMA25<=SMA75: BUY見送り",
           "SMA25傾き<=0: BUY見送り"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "6752",
@@ -916,24 +916,13 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 6
+        "signal_age": 7
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "",
-      "items": [
-        {
-          "code": "8088",
-          "company_name": "岩谷産業",
-          "type": "hold",
-          "from_signal": "FULL-SELL",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "60日高値から-7%超"
-          ]
-        }
-      ]
+      "message": "signal変化なし",
+      "items": []
     }
   }
 }
