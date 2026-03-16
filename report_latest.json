@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-03-15T13:03:14+09:00",
+  "generated_at_sheet": "2026-03-16T13:03:17+09:00",
   "report": {
-    "generated_at": "2026-03-15T13:04:31+09:00",
+    "generated_at": "2026-03-16T13:04:43+09:00",
     "mode": "report",
     "items": [
       {
@@ -10,8 +10,8 @@
         "company_name": "アスクル",
         "type": "hold",
         "price_now": 1226,
-        "prev_close": 1208,
-        "change_day": 0.0149,
+        "prev_close": 1226,
+        "change_day": 0,
         "change_intraday": null,
         "close_latest": 1226,
         "sma5": 1233.2,
@@ -22,7 +22,7 @@
         "sma75_slope": -2.587,
         "rsi14": 38.84,
         "atr14": 32.69,
-        "atr14_pct": 0.0271,
+        "atr14_pct": 0.0267,
         "abnormal_move": false,
         "trend_strength": -4.2,
         "high60": 1447,
@@ -39,15 +39,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "2681",
         "company_name": "ゲオホールディングス",
         "type": "hold",
-        "price_now": 1706,
-        "prev_close": 1722,
-        "change_day": -0.0093,
+        "price_now": 1705,
+        "prev_close": 1706,
+        "change_day": -0.0006,
         "change_intraday": null,
         "close_latest": 1706,
         "sma5": 1732.8,
@@ -58,11 +58,11 @@
         "sma75_slope": 0.147,
         "rsi14": 43.69,
         "atr14": 42.49,
-        "atr14_pct": 0.0247,
+        "atr14_pct": 0.0249,
         "abnormal_move": false,
-        "trend_strength": -1.84,
+        "trend_strength": -1.86,
         "high60": 1936,
-        "drawdown_high": -0.1188,
+        "drawdown_high": -0.1193,
         "avgVol20": 194420,
         "avgTurnover20": 336579904,
         "liquidityFilter": true,
@@ -72,15 +72,15 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "3046",
         "company_name": "ジンズホールディングス",
         "type": "hold",
-        "price_now": 5390,
-        "prev_close": 5400,
-        "change_day": -0.0019,
+        "price_now": 5280,
+        "prev_close": 5390,
+        "change_day": -0.0204,
         "change_intraday": null,
         "close_latest": 5390,
         "sma5": 5458,
@@ -93,9 +93,9 @@
         "atr14": 162.82,
         "atr14_pct": 0.0302,
         "abnormal_move": false,
-        "trend_strength": -0.21,
+        "trend_strength": -0.89,
         "high60": 5890,
-        "drawdown_high": -0.0849,
+        "drawdown_high": -0.1036,
         "avgVol20": 204895,
         "avgTurnover20": 1084304340,
         "liquidityFilter": true,
@@ -107,15 +107,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4477",
         "company_name": "ＢＡＳＥ",
         "type": "hold",
-        "price_now": 303,
-        "prev_close": 310,
-        "change_day": -0.0226,
+        "price_now": 299,
+        "prev_close": 303,
+        "change_day": -0.0132,
         "change_intraday": null,
         "close_latest": 303,
         "sma5": 313.2,
@@ -126,11 +126,11 @@
         "sma75_slope": -0.2,
         "rsi14": 45.39,
         "atr14": 11.46,
-        "atr14_pct": 0.037,
+        "atr14_pct": 0.0378,
         "abnormal_move": false,
-        "trend_strength": -1.4,
+        "trend_strength": -1.75,
         "high60": 342,
-        "drawdown_high": -0.114,
+        "drawdown_high": -0.1257,
         "avgVol20": 1770720,
         "avgTurnover20": 546886872,
         "liquidityFilter": true,
@@ -139,18 +139,19 @@
         "label": "🔴 FULL-SELL",
         "reason": [
           "終値<SMA75が2日連続",
+          "60日高値から-12%超",
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4755",
         "company_name": "楽天グループ",
         "type": "hold",
-        "price_now": 765.5,
-        "prev_close": 783.6,
-        "change_day": -0.0231,
+        "price_now": 766.3,
+        "prev_close": 765.5,
+        "change_day": 0.001,
         "change_intraday": null,
         "close_latest": 765.5,
         "sma5": 786.6,
@@ -161,11 +162,11 @@
         "sma75_slope": -1.936,
         "rsi14": 29.49,
         "atr14": 26.82,
-        "atr14_pct": 0.0342,
+        "atr14_pct": 0.035,
         "abnormal_move": false,
-        "trend_strength": -5.82,
+        "trend_strength": -5.79,
         "high60": 1058.5,
-        "drawdown_high": -0.2768,
+        "drawdown_high": -0.2761,
         "avgVol20": 18759705,
         "avgTurnover20": 15292723793,
         "liquidityFilter": true,
@@ -177,15 +178,15 @@
           "60日高値から-12%超",
           "長期線SMA200も下回る"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "4928",
         "company_name": "ノエビアホールディングス",
         "type": "hold",
-        "price_now": 4560,
-        "prev_close": 4565,
-        "change_day": -0.0011,
+        "price_now": 4565,
+        "prev_close": 4560,
+        "change_day": 0.0011,
         "change_intraday": null,
         "close_latest": 4560,
         "sma5": 4591,
@@ -198,9 +199,9 @@
         "atr14": 63.29,
         "atr14_pct": 0.0139,
         "abnormal_move": false,
-        "trend_strength": -1.08,
+        "trend_strength": -1,
         "high60": 4760,
-        "drawdown_high": -0.042,
+        "drawdown_high": -0.041,
         "avgVol20": 61325,
         "avgTurnover20": 284057400,
         "liquidityFilter": false,
@@ -210,15 +211,15 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "6203",
         "company_name": "豊和工業",
         "type": "hold",
-        "price_now": 1744,
-        "prev_close": 1763,
-        "change_day": -0.0108,
+        "price_now": 1693,
+        "prev_close": 1744,
+        "change_day": -0.0292,
         "change_intraday": null,
         "close_latest": 1744,
         "sma5": 1733.8,
@@ -229,11 +230,11 @@
         "sma75_slope": 8.587,
         "rsi14": 53.23,
         "atr14": 111.26,
-        "atr14_pct": 0.0631,
+        "atr14_pct": 0.0638,
         "abnormal_move": false,
-        "trend_strength": 2.95,
+        "trend_strength": 2.49,
         "high60": 2030,
-        "drawdown_high": -0.1409,
+        "drawdown_high": -0.166,
         "avgVol20": 456365,
         "avgTurnover20": 814428979,
         "liquidityFilter": true,
@@ -243,15 +244,15 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "6758",
         "company_name": "ソニーグループ",
         "type": "hold",
-        "price_now": 3458,
-        "prev_close": 3459,
-        "change_day": -0.0003,
+        "price_now": 3409,
+        "prev_close": 3458,
+        "change_day": -0.0142,
         "change_intraday": null,
         "close_latest": 3458,
         "sma5": 3422.4,
@@ -264,9 +265,9 @@
         "atr14": 127.13,
         "atr14_pct": 0.0368,
         "abnormal_move": false,
-        "trend_strength": -2.83,
+        "trend_strength": -3.22,
         "high60": 4214,
-        "drawdown_high": -0.1794,
+        "drawdown_high": -0.191,
         "avgVol20": 23460000,
         "avgTurnover20": 80766915000,
         "liquidityFilter": true,
@@ -279,15 +280,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "6965",
         "company_name": "浜松ホトニクス",
         "type": "hold",
-        "price_now": 2069,
-        "prev_close": 2000.5,
-        "change_day": 0.0342,
+        "price_now": 2056,
+        "prev_close": 2069,
+        "change_day": -0.0063,
         "change_intraday": null,
         "close_latest": 2069,
         "sma5": 2040.5,
@@ -298,11 +299,11 @@
         "sma75_slope": 7.453,
         "rsi14": 57.6,
         "atr14": 117.9,
-        "atr14_pct": 0.0589,
+        "atr14_pct": 0.057,
         "abnormal_move": false,
-        "trend_strength": 2.62,
+        "trend_strength": 2.51,
         "high60": 2384,
-        "drawdown_high": -0.1321,
+        "drawdown_high": -0.1376,
         "avgVol20": 7148405,
         "avgTurnover20": 13971736283,
         "liquidityFilter": true,
@@ -312,15 +313,15 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "8766",
         "company_name": "東京海上ホールディングス",
         "type": "hold",
-        "price_now": 5905,
-        "prev_close": 5878,
-        "change_day": 0.0046,
+        "price_now": 5927,
+        "prev_close": 5905,
+        "change_day": 0.0037,
         "change_intraday": null,
         "close_latest": 5905,
         "sma5": 5982.2,
@@ -331,11 +332,11 @@
         "sma75_slope": 1.253,
         "rsi14": 41.38,
         "atr14": 178.4,
-        "atr14_pct": 0.0304,
+        "atr14_pct": 0.0302,
         "abnormal_move": false,
-        "trend_strength": -0.02,
+        "trend_strength": 0.1,
         "high60": 6613,
-        "drawdown_high": -0.1071,
+        "drawdown_high": -0.1037,
         "avgVol20": 6015725,
         "avgTurnover20": 37498119429,
         "liquidityFilter": true,
@@ -347,15 +348,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "9424",
         "company_name": "日本通信",
         "type": "hold",
-        "price_now": 129,
-        "prev_close": 131,
-        "change_day": -0.0153,
+        "price_now": 130,
+        "prev_close": 129,
+        "change_day": 0.0078,
         "change_intraday": null,
         "close_latest": 129,
         "sma5": 133,
@@ -366,11 +367,11 @@
         "sma75_slope": -0.093,
         "rsi14": 38.91,
         "atr14": 5.01,
-        "atr14_pct": 0.0382,
+        "atr14_pct": 0.0388,
         "abnormal_move": false,
-        "trend_strength": -2.49,
+        "trend_strength": -2.29,
         "high60": 155,
-        "drawdown_high": -0.1677,
+        "drawdown_high": -0.1613,
         "avgVol20": 2837135,
         "avgTurnover20": 385282933,
         "liquidityFilter": true,
@@ -383,15 +384,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "5711",
         "company_name": "三菱マテリアル",
         "type": "watch",
-        "price_now": 5039,
-        "prev_close": 5091,
-        "change_day": -0.0102,
+        "price_now": 4931,
+        "prev_close": 5039,
+        "change_day": -0.0214,
         "change_intraday": null,
         "close_latest": 5039,
         "sma5": 5083.6,
@@ -402,11 +403,11 @@
         "sma75_slope": 27.227,
         "rsi14": 48.87,
         "atr14": 289.27,
-        "atr14_pct": 0.0568,
+        "atr14_pct": 0.0574,
         "abnormal_move": false,
-        "trend_strength": 2.75,
+        "trend_strength": 2.37,
         "high60": 6126,
-        "drawdown_high": -0.1774,
+        "drawdown_high": -0.1951,
         "avgVol20": 2160050,
         "avgTurnover20": 11532506950,
         "liquidityFilter": true,
@@ -416,15 +417,15 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "6981",
         "company_name": "村田製作所",
         "type": "watch",
-        "price_now": 3650,
-        "prev_close": 3720,
-        "change_day": -0.0188,
+        "price_now": 3626,
+        "prev_close": 3650,
+        "change_day": -0.0066,
         "change_intraday": null,
         "close_latest": 3650,
         "sma5": 3654.6,
@@ -435,11 +436,11 @@
         "sma75_slope": 8.347,
         "rsi14": 50.43,
         "atr14": 186.49,
-        "atr14_pct": 0.0501,
+        "atr14_pct": 0.0511,
         "abnormal_move": false,
-        "trend_strength": 1.4,
+        "trend_strength": 1.27,
         "high60": 4322,
-        "drawdown_high": -0.1555,
+        "drawdown_high": -0.161,
         "avgVol20": 11324195,
         "avgTurnover20": 42342297525,
         "liquidityFilter": true,
@@ -449,15 +450,15 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "7203",
         "company_name": "トヨタ自動車",
         "type": "watch",
-        "price_now": 3370,
-        "prev_close": 3467,
-        "change_day": -0.028,
+        "price_now": 3362,
+        "prev_close": 3370,
+        "change_day": -0.0024,
         "change_intraday": null,
         "close_latest": 3370,
         "sma5": 3442.6,
@@ -468,11 +469,11 @@
         "sma75_slope": 4.44,
         "rsi14": 39.45,
         "atr14": 128.46,
-        "atr14_pct": 0.0371,
+        "atr14_pct": 0.0381,
         "abnormal_move": false,
-        "trend_strength": -0.63,
+        "trend_strength": -0.69,
         "high60": 4000,
-        "drawdown_high": -0.1575,
+        "drawdown_high": -0.1595,
         "avgVol20": 25385590,
         "avgTurnover20": 92205539998,
         "liquidityFilter": true,
@@ -482,15 +483,15 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "7974",
         "company_name": "任天堂",
         "type": "watch",
-        "price_now": 10220,
-        "prev_close": 10150,
-        "change_day": 0.0069,
+        "price_now": 10135,
+        "prev_close": 10220,
+        "change_day": -0.0083,
         "change_intraday": null,
         "close_latest": 10220,
         "sma5": 9605.6,
@@ -501,11 +502,11 @@
         "sma75_slope": -37.467,
         "rsi14": 66.99,
         "atr14": 381.03,
-        "atr14_pct": 0.0375,
+        "atr14_pct": 0.0373,
         "abnormal_move": false,
-        "trend_strength": -0.37,
+        "trend_strength": -0.6,
         "high60": 11740,
-        "drawdown_high": -0.1295,
+        "drawdown_high": -0.1367,
         "avgVol20": 12272945,
         "avgTurnover20": 108709451279,
         "liquidityFilter": true,
@@ -518,15 +519,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "8591",
         "company_name": "オリックス",
         "type": "watch",
-        "price_now": 4778,
-        "prev_close": 4845,
-        "change_day": -0.0138,
+        "price_now": 4772,
+        "prev_close": 4778,
+        "change_day": -0.0013,
         "change_intraday": null,
         "close_latest": 4778,
         "sma5": 4887,
@@ -537,11 +538,11 @@
         "sma75_slope": 10.947,
         "rsi14": 39.51,
         "atr14": 171.61,
-        "atr14_pct": 0.0354,
+        "atr14_pct": 0.0359,
         "abnormal_move": false,
-        "trend_strength": 0.16,
+        "trend_strength": 0.12,
         "high60": 5648,
-        "drawdown_high": -0.154,
+        "drawdown_high": -0.1551,
         "avgVol20": 4147235,
         "avgTurnover20": 21610826862,
         "liquidityFilter": true,
@@ -551,15 +552,15 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "8136",
         "company_name": "サンリオ",
         "type": "hold",
-        "price_now": 5487,
-        "prev_close": 5413,
-        "change_day": 0.0137,
+        "price_now": 5556,
+        "prev_close": 5487,
+        "change_day": 0.0126,
         "change_intraday": null,
         "close_latest": 5487,
         "sma5": 5580.4,
@@ -570,11 +571,11 @@
         "sma75_slope": 0.453,
         "rsi14": 52.57,
         "atr14": 244.2,
-        "atr14_pct": 0.0451,
+        "atr14_pct": 0.0445,
         "abnormal_move": false,
-        "trend_strength": 1.37,
+        "trend_strength": 1.66,
         "high60": 6179,
-        "drawdown_high": -0.112,
+        "drawdown_high": -0.1008,
         "avgVol20": 11195255,
         "avgTurnover20": 62271366887,
         "liquidityFilter": true,
@@ -586,15 +587,15 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8630",
         "company_name": "ＳＯＭＰＯホールディングス",
         "type": "hold",
-        "price_now": 5829,
-        "prev_close": 5761,
-        "change_day": 0.0118,
+        "price_now": 5810,
+        "prev_close": 5829,
+        "change_day": -0.0033,
         "change_intraday": null,
         "close_latest": 5829,
         "sma5": 5835.8,
@@ -605,11 +606,11 @@
         "sma75_slope": 17.947,
         "rsi14": 49.63,
         "atr14": 185.64,
-        "atr14_pct": 0.0322,
+        "atr14_pct": 0.0318,
         "abnormal_move": false,
-        "trend_strength": 1.69,
+        "trend_strength": 1.59,
         "high60": 6302,
-        "drawdown_high": -0.0751,
+        "drawdown_high": -0.0781,
         "avgVol20": 2686950,
         "avgTurnover20": 15959139525,
         "liquidityFilter": true,
@@ -619,15 +620,15 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "3563",
         "company_name": "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ",
         "type": "watch",
-        "price_now": 9640,
-        "prev_close": 9387,
-        "change_day": 0.027,
+        "price_now": 9480,
+        "prev_close": 9640,
+        "change_day": -0.0166,
         "change_intraday": null,
         "close_latest": 9640,
         "sma5": 9333,
@@ -638,11 +639,11 @@
         "sma75_slope": 44.2,
         "rsi14": 55.11,
         "atr14": 455.35,
-        "atr14_pct": 0.0485,
+        "atr14_pct": 0.0472,
         "abnormal_move": false,
-        "trend_strength": 2.62,
+        "trend_strength": 2.27,
         "high60": 10440,
-        "drawdown_high": -0.0766,
+        "drawdown_high": -0.092,
         "avgVol20": 1851360,
         "avgTurnover20": 17629945872,
         "liquidityFilter": true,
@@ -652,15 +653,15 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "8002",
         "company_name": "丸紅",
         "type": "watch",
-        "price_now": 5591,
-        "prev_close": 5375,
-        "change_day": 0.0402,
+        "price_now": 5623,
+        "prev_close": 5591,
+        "change_day": 0.0057,
         "change_intraday": null,
         "close_latest": 5591,
         "sma5": 5399.6,
@@ -671,11 +672,11 @@
         "sma75_slope": 24.4,
         "rsi14": 51.99,
         "atr14": 253.96,
-        "atr14_pct": 0.0472,
+        "atr14_pct": 0.0454,
         "abnormal_move": false,
-        "trend_strength": 2.5,
+        "trend_strength": 2.63,
         "high60": 6328,
-        "drawdown_high": -0.1165,
+        "drawdown_high": -0.1114,
         "avgVol20": 6001670,
         "avgTurnover20": 34059477250,
         "liquidityFilter": true,
@@ -685,15 +686,15 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "1662",
         "company_name": "石油資源開発",
         "type": "hold",
-        "price_now": 2572,
-        "prev_close": 2495,
-        "change_day": 0.0309,
+        "price_now": 2564,
+        "prev_close": 2572,
+        "change_day": -0.0031,
         "change_intraday": null,
         "close_latest": 2572,
         "sma5": 2453.6,
@@ -704,11 +705,11 @@
         "sma75_slope": 16.227,
         "rsi14": 64.51,
         "atr14": 139.5,
-        "atr14_pct": 0.0559,
+        "atr14_pct": 0.0542,
         "abnormal_move": false,
-        "trend_strength": 5.07,
+        "trend_strength": 5.02,
         "high60": 2717,
-        "drawdown_high": -0.0534,
+        "drawdown_high": -0.0563,
         "avgVol20": 4001205,
         "avgTurnover20": 9519466876,
         "liquidityFilter": true,
@@ -718,15 +719,15 @@
         "reason": [
           "BUY-ADD: 60日高値から-5〜-8%"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8088",
         "company_name": "岩谷産業",
         "type": "hold",
-        "price_now": 1950.5,
-        "prev_close": 1813,
-        "change_day": 0.0758,
+        "price_now": 1929,
+        "prev_close": 1950.5,
+        "change_day": -0.011,
         "change_intraday": null,
         "close_latest": 1950.5,
         "sma5": 1792.8,
@@ -737,11 +738,11 @@
         "sma75_slope": 4.12,
         "rsi14": 56.95,
         "atr14": 77.68,
-        "atr14_pct": 0.0428,
-        "abnormal_move": true,
-        "trend_strength": 2.24,
+        "atr14_pct": 0.0398,
+        "abnormal_move": false,
+        "trend_strength": 1.96,
         "high60": 2059,
-        "drawdown_high": -0.0527,
+        "drawdown_high": -0.0631,
         "avgVol20": 1142585,
         "avgTurnover20": 2149059562,
         "liquidityFilter": true,
@@ -751,15 +752,15 @@
         "reason": [
           "BUY-ADD: 60日高値から-5〜-8%"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "1605",
         "company_name": "ＩＮＰＥＸ",
         "type": "hold",
-        "price_now": 4383,
-        "prev_close": 4299,
-        "change_day": 0.0195,
+        "price_now": 4382,
+        "prev_close": 4383,
+        "change_day": -0.0002,
         "change_intraday": null,
         "close_latest": 4383,
         "sma5": 4209,
@@ -770,11 +771,11 @@
         "sma75_slope": 17.44,
         "rsi14": 71.74,
         "atr14": 174.51,
-        "atr14_pct": 0.0406,
+        "atr14_pct": 0.0398,
         "abnormal_move": false,
         "trend_strength": 5.47,
         "high60": 4435,
-        "drawdown_high": -0.0117,
+        "drawdown_high": -0.012,
         "avgVol20": 11649950,
         "avgTurnover20": 45205883483,
         "liquidityFilter": true,
@@ -782,15 +783,15 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 9
+        "signal_age": 10
       },
       {
         "code": "7867",
         "company_name": "タカラトミー",
         "type": "hold",
-        "price_now": 2800,
-        "prev_close": 2769.5,
-        "change_day": 0.011,
+        "price_now": 2771.5,
+        "prev_close": 2800,
+        "change_day": -0.0102,
         "change_intraday": null,
         "close_latest": 2800,
         "sma5": 2786.8,
@@ -801,11 +802,11 @@
         "sma75_slope": -0.547,
         "rsi14": 52.42,
         "atr14": 61.4,
-        "atr14_pct": 0.0222,
+        "atr14_pct": 0.0219,
         "abnormal_move": false,
-        "trend_strength": 0.28,
+        "trend_strength": -0.18,
         "high60": 2915,
-        "drawdown_high": -0.0395,
+        "drawdown_high": -0.0492,
         "avgVol20": 623950,
         "avgTurnover20": 1732334780,
         "liquidityFilter": true,
@@ -817,15 +818,15 @@
           "SMA75<=SMA200: BUY見送り",
           "SMA25<=SMA75: BUY見送り"
         ],
-        "signal_age": 9
+        "signal_age": 10
       },
       {
         "code": "9101",
         "company_name": "日本郵船",
         "type": "hold",
-        "price_now": 5640,
-        "prev_close": 5739,
-        "change_day": -0.0173,
+        "price_now": 5667,
+        "prev_close": 5640,
+        "change_day": 0.0048,
         "change_intraday": null,
         "close_latest": 5640,
         "sma5": 5650.4,
@@ -836,11 +837,11 @@
         "sma75_slope": 10.053,
         "rsi14": 65.2,
         "atr14": 136.87,
-        "atr14_pct": 0.0238,
+        "atr14_pct": 0.0243,
         "abnormal_move": false,
-        "trend_strength": 3.75,
+        "trend_strength": 3.95,
         "high60": 5793,
-        "drawdown_high": -0.0264,
+        "drawdown_high": -0.0218,
         "avgVol20": 4586960,
         "avgTurnover20": 24721879616,
         "liquidityFilter": true,
@@ -850,15 +851,15 @@
         "reason": [
           "SMA75<=SMA200: BUY見送り"
         ],
-        "signal_age": 9
+        "signal_age": 10
       },
       {
         "code": "9432",
         "company_name": "ＮＴＴ",
         "type": "hold",
-        "price_now": 154.7,
-        "prev_close": 155.7,
-        "change_day": -0.0064,
+        "price_now": 157.2,
+        "prev_close": 154.7,
+        "change_day": 0.0162,
         "change_intraday": null,
         "close_latest": 154.6999969482422,
         "sma5": 154.8,
@@ -869,11 +870,11 @@
         "sma75_slope": 0.029,
         "rsi14": 54.34,
         "atr14": 2.01,
-        "atr14_pct": 0.0129,
+        "atr14_pct": 0.013,
         "abnormal_move": false,
-        "trend_strength": -0.23,
+        "trend_strength": 1.01,
         "high60": 161.1999969482422,
-        "drawdown_high": -0.0403,
+        "drawdown_high": -0.0248,
         "avgVol20": 239205660,
         "avgTurnover20": 36555409253,
         "liquidityFilter": true,
@@ -881,19 +882,18 @@
         "signal": "NONE",
         "label": "",
         "reason": [
-          "価格<=SMA200: BUY見送り",
           "SMA75<=SMA200: BUY見送り",
           "SMA25<=SMA75: BUY見送り"
         ],
-        "signal_age": 9
+        "signal_age": 10
       },
       {
         "code": "6752",
         "company_name": "パナソニック　ホールディングス",
         "type": "watch",
-        "price_now": 2610.5,
-        "prev_close": 2612,
-        "change_day": -0.0006,
+        "price_now": 2552.5,
+        "prev_close": 2610.5,
+        "change_day": -0.0222,
         "change_intraday": null,
         "close_latest": 2610.5,
         "sma5": 2558,
@@ -906,9 +906,9 @@
         "atr14": 101.48,
         "atr14_pct": 0.0389,
         "abnormal_move": false,
-        "trend_strength": 4.09,
+        "trend_strength": 3.52,
         "high60": 2661,
-        "drawdown_high": -0.019,
+        "drawdown_high": -0.0408,
         "avgVol20": 9230715,
         "avgTurnover20": 23029018550,
         "liquidityFilter": true,
@@ -916,60 +916,13 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 9
+        "signal_age": 10
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "",
-      "items": [
-        {
-          "code": "3046",
-          "company_name": "ジンズホールディングス",
-          "type": "hold",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "4477",
-          "company_name": "ＢＡＳＥ",
-          "type": "hold",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        },
-        {
-          "code": "8088",
-          "company_name": "岩谷産業",
-          "type": "hold",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "BUY",
-          "reason": [
-            "BUY-ADD: 60日高値から-5〜-8%"
-          ]
-        },
-        {
-          "code": "8766",
-          "company_name": "東京海上ホールディングス",
-          "type": "hold",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        }
-      ]
+      "message": "signal変化なし",
+      "items": []
     }
   }
 }
