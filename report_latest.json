@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-03-21T13:03:13+09:00",
+  "generated_at_sheet": "2026-03-22T13:03:13+09:00",
   "report": {
-    "generated_at": "2026-03-21T13:04:50+09:00",
+    "generated_at": "2026-03-22T13:04:10+09:00",
     "mode": "report",
     "items": [
       {
@@ -39,7 +39,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "2681",
@@ -75,7 +75,7 @@
           "長期線SMA200も下回る",
           "当日下落がATR超で大きい"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "3046",
@@ -110,7 +110,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 7
+        "signal_age": 8
       },
       {
         "code": "4477",
@@ -146,7 +146,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 7
+        "signal_age": 8
       },
       {
         "code": "4755",
@@ -181,7 +181,7 @@
           "60日高値から-12%超",
           "長期線SMA200も下回る"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "4928",
@@ -214,7 +214,7 @@
         "reason": [
           "終値<SMA75が2日連続"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "6203",
@@ -247,7 +247,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "6758",
@@ -283,7 +283,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "6965",
@@ -316,7 +316,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "7867",
@@ -351,7 +351,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8136",
@@ -386,7 +386,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "9424",
@@ -422,7 +422,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "5711",
@@ -455,7 +455,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "6981",
@@ -488,7 +488,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "7203",
@@ -522,7 +522,7 @@
           "終値<SMA75が2日連続",
           "60日高値から-12%超"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "7974",
@@ -557,7 +557,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "8002",
@@ -590,7 +590,7 @@
         "reason": [
           "60日高値から-12%超"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8591",
@@ -624,7 +624,7 @@
           "終値<SMA75が2日連続",
           "60日高値から-12%超"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "1662",
@@ -657,7 +657,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8630",
@@ -690,7 +690,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8766",
@@ -725,7 +725,7 @@
           "長期線SMA200も下回る",
           "SMA75<SMA200で長期トレンド弱い"
         ],
-        "signal_age": 4
+        "signal_age": 5
       },
       {
         "code": "3563",
@@ -758,7 +758,7 @@
         "reason": [
           "60日高値から-7%超"
         ],
-        "signal_age": 12
+        "signal_age": 13
       },
       {
         "code": "8088",
@@ -791,7 +791,7 @@
         "reason": [
           "BUY-ADD: 60日高値から-5〜-8%"
         ],
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "1605",
@@ -822,7 +822,7 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 15
+        "signal_age": 16
       },
       {
         "code": "9101",
@@ -853,7 +853,7 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 15
+        "signal_age": 16
       },
       {
         "code": "9432",
@@ -887,7 +887,7 @@
           "SMA75<=SMA200: BUY見送り",
           "SMA25<=SMA75: BUY見送り"
         ],
-        "signal_age": 15
+        "signal_age": 16
       },
       {
         "code": "6752",
@@ -918,26 +918,13 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
-        "signal_age": 15
+        "signal_age": 16
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "",
-      "items": [
-        {
-          "code": "7867",
-          "company_name": "タカラトミー",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が2日連続",
-            "長期線SMA200も下回る",
-            "SMA75<SMA200で長期トレンド弱い"
-          ]
-        }
-      ]
+      "message": "signal変化なし",
+      "items": []
     }
   }
 }
