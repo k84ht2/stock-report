@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-04-01T13:52:51+09:00",
+  "mode": "single_analysis",
+  "code": "2780",
+  "company_name": "Komehyo Holdings Co.,Ltd.",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_2780.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_2780.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "2780",
+    "company_name": "Komehyo Holdings Co.,Ltd.",
+    "type": "watch",
+    "price_now": 4510,
+    "prev_close": 4255,
+    "change_day": 0.0599,
+    "change_intraday": null,
+    "close_latest": 4510,
+    "sma5": 4451,
+    "sma25": 4684,
+    "sma75": 3740.31,
+    "sma200": 3230.14,
+    "sma25_slope": 10,
+    "sma75_slope": 23.773,
+    "rsi14": 50.9,
+    "atr14": 230.78,
+    "atr14_pct": 0.0542,
+    "abnormal_move": false,
+    "trend_strength": 3.34,
+    "high60": 5340,
+    "drawdown_high": -0.1554,
+    "avgVol20": 137230,
+    "avgTurnover20": 647622678,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "signal": "FULL-SELL",
+    "label": "🔴 FULL-SELL",
+    "reason": [
+      "60日高値から-12%超"
+    ]
+  }
+}
