@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-04-03T13:48:42+09:00",
+  "mode": "single_analysis",
+  "code": "2801",
+  "company_name": "Kikkoman Corporation",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_2801.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_2801.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "2801",
+    "company_name": "Kikkoman Corporation",
+    "type": "watch",
+    "price_now": 1548.5,
+    "prev_close": 1545.5,
+    "change_day": 0.0019,
+    "change_intraday": null,
+    "close_latest": 1548.5,
+    "sma5": 1498.1,
+    "sma25": 1402.18,
+    "sma75": 1427.45,
+    "sma200": 1355.95,
+    "sma25_slope": 2.46,
+    "sma75_slope": 1.667,
+    "rsi14": 67.86,
+    "atr14": 44.63,
+    "atr14_pct": 0.0289,
+    "abnormal_move": false,
+    "trend_strength": 2.71,
+    "high60": 1564.5,
+    "drawdown_high": -0.0102,
+    "avgVol20": 3930350,
+    "avgTurnover20": 5482445215,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "signal": "NONE",
+    "label": "",
+    "reason": [
+      "SMA25<=SMA75: BUY見送り"
+    ]
+  }
+}
