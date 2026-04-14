@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-04-14T13:32:32+09:00",
+  "mode": "single_analysis",
+  "code": "6840",
+  "company_name": "AKIBA Holdings Co.,Ltd.",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_6840.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_6840.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "6840",
+    "company_name": "AKIBA Holdings Co.,Ltd.",
+    "type": "watch",
+    "price_now": 534,
+    "prev_close": 522,
+    "change_day": 0.023,
+    "change_intraday": null,
+    "close_latest": 534,
+    "sma5": 506.4,
+    "sma25": 476.72,
+    "sma75": 481.2,
+    "sma200": 387.34,
+    "sma25_slope": 2.48,
+    "sma75_slope": 2.013,
+    "rsi14": 59.96,
+    "atr14": 33.58,
+    "atr14_pct": 0.0643,
+    "abnormal_move": false,
+    "trend_strength": 1.57,
+    "high60": 648,
+    "drawdown_high": -0.1759,
+    "avgVol20": 301170,
+    "avgTurnover20": 141971538,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "signal": "FULL-SELL",
+    "label": "🔴 FULL-SELL",
+    "reason": [
+      "60日高値から-12%超"
+    ]
+  }
+}
