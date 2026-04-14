@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-04-14T13:42:36+09:00",
+  "mode": "single_analysis",
+  "code": "6323",
+  "company_name": "Rorze Corporation",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_6323.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_6323.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "6323",
+    "company_name": "Rorze Corporation",
+    "type": "watch",
+    "price_now": 3934,
+    "prev_close": 4058,
+    "change_day": -0.0306,
+    "change_intraday": null,
+    "close_latest": 3934,
+    "sma5": 3686,
+    "sma25": 2959.64,
+    "sma75": 3036.39,
+    "sma200": 2401.29,
+    "sma25_slope": 46.22,
+    "sma75_slope": 25.46,
+    "rsi14": 71.95,
+    "atr14": 211.1,
+    "atr14_pct": 0.052,
+    "abnormal_move": false,
+    "trend_strength": 4.25,
+    "high60": 4127,
+    "drawdown_high": -0.0468,
+    "avgVol20": 2331705,
+    "avgTurnover20": 6935539937,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "signal": "NONE",
+    "label": "",
+    "reason": [
+      "SMA25<=SMA75: BUY見送り"
+    ]
+  }
+}
