@@ -1,43 +1,10 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-04-16T13:12:06+09:00",
+  "generated_at_sheet": "2026-04-16T19:02:01+09:00",
   "report": {
-    "generated_at": "2026-04-16T13:12:15+09:00",
+    "generated_at": "2026-04-16T19:02:09+09:00",
     "mode": "report",
     "items": [
-      {
-        "code": "1662",
-        "company_name": "石油資源開発",
-        "type": "hold",
-        "price_now": 2395,
-        "prev_close": 2400,
-        "change_day": -0.0021,
-        "change_intraday": null,
-        "close_latest": 2400,
-        "sma5": 2453.2,
-        "sma25": 2539.68,
-        "sma75": 2191.61,
-        "sma200": 1593.45,
-        "sma25_slope": 1.2,
-        "sma75_slope": 11.587,
-        "rsi14": 45.88,
-        "atr14": 132.18,
-        "atr14_pct": 0.0551,
-        "abnormal_move": false,
-        "trend_strength": 1.54,
-        "high60": 2819,
-        "drawdown_high": -0.1504,
-        "avgVol20": 3891880,
-        "avgTurnover20": 9878759004,
-        "liquidityFilter": true,
-        "blackoutBuy": false,
-        "signal": "FULL-SELL",
-        "label": "🔴 FULL-SELL",
-        "reason": [
-          "60日高値から-12%超"
-        ],
-        "signal_age": 2
-      },
       {
         "code": "2678",
         "company_name": "アスクル",
@@ -67,11 +34,17 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続",
+          "高値から-12%超かつSMA75下"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -103,10 +76,16 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 2
       },
       {
@@ -138,46 +117,17 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 27
-      },
-      {
-        "code": "4480",
-        "company_name": "",
-        "type": "hold",
-        "price_now": 2261,
-        "prev_close": 2220,
-        "change_day": 0.0185,
-        "change_intraday": null,
-        "close_latest": 2220,
-        "sma5": 2122.6,
-        "sma25": 1940.96,
-        "sma75": 2146.56,
-        "sma200": 2452.33,
-        "sma25_slope": 11.96,
-        "sma75_slope": -1.747,
-        "rsi14": 68.53,
-        "atr14": 71.76,
-        "atr14_pct": 0.0323,
-        "abnormal_move": false,
-        "trend_strength": 1.59,
-        "high60": 2660,
-        "drawdown_high": -0.15,
-        "avgVol20": 344610,
-        "avgTurnover20": 675745749,
-        "liquidityFilter": true,
-        "blackoutBuy": false,
-        "signal": "FULL-SELL",
-        "label": "🔴 FULL-SELL",
-        "reason": [
-          "60日高値から-12%超",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
-        ],
-        "signal_age": 6
       },
       {
         "code": "4755",
@@ -208,11 +158,17 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続",
+          "高値から-12%超かつSMA75下"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -244,9 +200,16 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "長期線SMA200も下回る"
+          "終値<SMA75が3日連続"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは小さめ"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -278,43 +241,16 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続"
         ],
-        "signal_age": 32
-      },
-      {
-        "code": "6965",
-        "company_name": "浜松ホトニクス",
-        "type": "hold",
-        "price_now": 1959.5,
-        "prev_close": 1902,
-        "change_day": 0.0302,
-        "change_intraday": null,
-        "close_latest": 1902,
-        "sma5": 1936,
-        "sma25": 1926,
-        "sma75": 1837.96,
-        "sma200": 1736.27,
-        "sma25_slope": -6.76,
-        "sma75_slope": 2.927,
-        "rsi14": 49.29,
-        "atr14": 84.18,
-        "atr14_pct": 0.0443,
-        "abnormal_move": false,
-        "trend_strength": 1.44,
-        "high60": 2384,
-        "drawdown_high": -0.1781,
-        "avgVol20": 3295040,
-        "avgTurnover20": 6248466728,
-        "liquidityFilter": true,
-        "blackoutBuy": false,
-        "signal": "FULL-SELL",
-        "label": "🔴 FULL-SELL",
-        "reason": [
-          "60日高値から-12%超"
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
         ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -346,10 +282,16 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 4
       },
       {
@@ -381,11 +323,16 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続",
+          "高値から-12%超かつSMA75下"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -417,11 +364,16 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きはやや大きい"
+        ],
+        "stuck_hold": false,
         "signal_age": 23
       },
       {
@@ -453,11 +405,17 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続",
+          "高値から-12%超かつSMA75下"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -489,44 +447,17 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "長期線SMA200も下回る",
-          "SMA75<SMA200で長期トレンド弱い"
+          "終値<SMA75が3日連続"
         ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きは小さめ"
+        ],
+        "stuck_hold": false,
         "signal_age": 6
-      },
-      {
-        "code": "1605",
-        "company_name": "ＩＮＰＥＸ",
-        "type": "watch",
-        "price_now": 3995,
-        "prev_close": 4035,
-        "change_day": -0.0099,
-        "change_intraday": null,
-        "close_latest": 4035,
-        "sma5": 4175.8,
-        "sma25": 4468.92,
-        "sma75": 3808.43,
-        "sma200": 3056.35,
-        "sma25_slope": -2.24,
-        "sma75_slope": 11.227,
-        "rsi14": 40.64,
-        "atr14": 207.85,
-        "atr14_pct": 0.0515,
-        "abnormal_move": false,
-        "trend_strength": 0.9,
-        "high60": 4955,
-        "drawdown_high": -0.1937,
-        "avgVol20": 14038545,
-        "avgTurnover20": 63168539009,
-        "liquidityFilter": true,
-        "blackoutBuy": false,
-        "signal": "FULL-SELL",
-        "label": "🔴 FULL-SELL",
-        "reason": [
-          "60日高値から-12%超"
-        ],
-        "signal_age": 7
       },
       {
         "code": "6203",
@@ -557,9 +488,17 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超"
+          "終値<SMA75が3日連続",
+          "高値から-12%超かつSMA75下"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きはやや大きい"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
       },
       {
@@ -591,10 +530,140 @@
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
-          "終値<SMA75が2日連続",
-          "60日高値から-12%超"
+          "終値<SMA75が3日連続",
+          "高値から-12%超かつSMA75下"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格はまだ上回る",
+          "SMA25傾きマイナス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 32
+      },
+      {
+        "code": "1662",
+        "company_name": "石油資源開発",
+        "type": "hold",
+        "price_now": 2395,
+        "prev_close": 2400,
+        "change_day": -0.0021,
+        "change_intraday": null,
+        "close_latest": 2400,
+        "sma5": 2453.2,
+        "sma25": 2539.68,
+        "sma75": 2191.61,
+        "sma200": 1593.45,
+        "sma25_slope": 1.2,
+        "sma75_slope": 11.587,
+        "rsi14": 45.88,
+        "atr14": 132.18,
+        "atr14_pct": 0.0551,
+        "abnormal_move": false,
+        "trend_strength": 1.54,
+        "high60": 2819,
+        "drawdown_high": -0.1504,
+        "avgVol20": 3891880,
+        "avgTurnover20": 9878759004,
+        "liquidityFilter": true,
+        "blackoutBuy": false,
+        "signal": "PARTIAL-SELL",
+        "label": "🟠 PARTIAL-SELL",
+        "reason": [
+          "高値から-8%超"
+        ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格はまだ上回る",
+          "SMA25傾きプラス",
+          "値動きはやや大きい"
+        ],
+        "stuck_hold": false,
+        "signal_age": 1
+      },
+      {
+        "code": "4480",
+        "company_name": "",
+        "type": "hold",
+        "price_now": 2261,
+        "prev_close": 2220,
+        "change_day": 0.0185,
+        "change_intraday": null,
+        "close_latest": 2220,
+        "sma5": 2122.6,
+        "sma25": 1940.96,
+        "sma75": 2146.56,
+        "sma200": 2452.33,
+        "sma25_slope": 11.96,
+        "sma75_slope": -1.747,
+        "rsi14": 68.53,
+        "atr14": 71.76,
+        "atr14_pct": 0.0323,
+        "abnormal_move": false,
+        "trend_strength": 1.59,
+        "high60": 2660,
+        "drawdown_high": -0.15,
+        "avgVol20": 344610,
+        "avgTurnover20": 675745749,
+        "liquidityFilter": true,
+        "blackoutBuy": false,
+        "signal": "PARTIAL-SELL",
+        "label": "🟠 PARTIAL-SELL",
+        "reason": [
+          "高値から-8%超"
+        ],
+        "comment": [
+          "長期線SMA200を下回る",
+          "SMA75<SMA200で長期基調は弱い",
+          "SMA25傾きプラス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
+        "signal_age": 1
+      },
+      {
+        "code": "6965",
+        "company_name": "浜松ホトニクス",
+        "type": "hold",
+        "price_now": 1959.5,
+        "prev_close": 1902,
+        "change_day": 0.0302,
+        "change_intraday": null,
+        "close_latest": 1902,
+        "sma5": 1936,
+        "sma25": 1926,
+        "sma75": 1837.96,
+        "sma200": 1736.27,
+        "sma25_slope": -6.76,
+        "sma75_slope": 2.927,
+        "rsi14": 49.29,
+        "atr14": 84.18,
+        "atr14_pct": 0.0443,
+        "abnormal_move": false,
+        "trend_strength": 1.44,
+        "high60": 2384,
+        "drawdown_high": -0.1781,
+        "avgVol20": 3295040,
+        "avgTurnover20": 6248466728,
+        "liquidityFilter": true,
+        "blackoutBuy": false,
+        "signal": "PARTIAL-SELL",
+        "label": "🟠 PARTIAL-SELL",
+        "reason": [
+          "高値から-8%超"
+        ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きはやや大きい"
+        ],
+        "stuck_hold": false,
+        "signal_age": 1
       },
       {
         "code": "8088",
@@ -625,9 +694,58 @@
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
-          "60日高値から-7%超"
+          "高値から-8%超"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格はまだ上回る",
+          "SMA25傾きプラス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 5
+      },
+      {
+        "code": "1605",
+        "company_name": "ＩＮＰＥＸ",
+        "type": "watch",
+        "price_now": 3995,
+        "prev_close": 4035,
+        "change_day": -0.0099,
+        "change_intraday": null,
+        "close_latest": 4035,
+        "sma5": 4175.8,
+        "sma25": 4468.92,
+        "sma75": 3808.43,
+        "sma200": 3056.35,
+        "sma25_slope": -2.24,
+        "sma75_slope": 11.227,
+        "rsi14": 40.64,
+        "atr14": 207.85,
+        "atr14_pct": 0.0515,
+        "abnormal_move": false,
+        "trend_strength": 0.9,
+        "high60": 4955,
+        "drawdown_high": -0.1937,
+        "avgVol20": 14038545,
+        "avgTurnover20": 63168539009,
+        "liquidityFilter": true,
+        "blackoutBuy": false,
+        "signal": "PARTIAL-SELL",
+        "label": "🟠 PARTIAL-SELL",
+        "reason": [
+          "高値から-8%超"
+        ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格も下回る",
+          "SMA25傾きマイナス",
+          "値動きはやや大きい"
+        ],
+        "stuck_hold": false,
+        "signal_age": 1
       },
       {
         "code": "3563",
@@ -658,8 +776,16 @@
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
-          "60日高値から-7%超"
+          "高値から-8%超"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格はまだ上回る",
+          "SMA25傾きプラス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 9
       },
       {
@@ -691,8 +817,15 @@
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
-          "60日高値から-7%超"
+          "高値から-8%超"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "SMA25傾きプラス",
+          "値動きはやや大きい"
+        ],
+        "stuck_hold": false,
         "signal_age": 1
       },
       {
@@ -724,8 +857,16 @@
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
-          "60日高値から-7%超"
+          "高値から-8%超"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格も下回る",
+          "SMA25傾きプラス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 2
       },
       {
@@ -757,8 +898,16 @@
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
-          "60日高値から-7%超"
+          "高値から-8%超"
         ],
+        "comment": [
+          "長期線SMA200を上回る",
+          "SMA75>SMA200で長期基調は維持",
+          "基準価格も下回る",
+          "SMA25傾きプラス",
+          "値動きは標準的"
+        ],
+        "stuck_hold": false,
         "signal_age": 1
       },
       {
@@ -790,8 +939,10 @@
         "signal": "NONE",
         "label": "",
         "reason": [
-          "SMA25<=SMA75: BUY見送り"
+          "SMA25<=SMA75でBUY見送り"
         ],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 8
       },
       {
@@ -822,10 +973,9 @@
         "blackoutBuy": false,
         "signal": "NONE",
         "label": "",
-        "reason": [
-          "価格<=SMA200: BUY見送り",
-          "SMA75<=SMA200: BUY見送り"
-        ],
+        "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 9
       },
       {
@@ -857,9 +1007,11 @@
         "signal": "NONE",
         "label": "",
         "reason": [
-          "価格<=SMA25: BUY見送り",
-          "SMA25傾き<=0: BUY見送り"
+          "価格<=SMA25でBUY見送り",
+          "SMA25傾き<=0でBUY見送り"
         ],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 17
       },
       {
@@ -891,6 +1043,8 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 11
       },
       {
@@ -922,6 +1076,8 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 5
       },
       {
@@ -953,6 +1109,8 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 1
       },
       {
@@ -984,6 +1142,8 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 35
       },
       {
@@ -1015,6 +1175,8 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 5
       },
       {
@@ -1046,6 +1208,8 @@
         "signal": "NONE",
         "label": "",
         "reason": [],
+        "comment": [],
+        "stuck_hold": false,
         "signal_age": 3
       }
     ],
@@ -1054,31 +1218,43 @@
       "message": "signal変更あり",
       "items": [
         {
-          "code": "5016",
-          "company_name": "JX金属",
-          "type": "watch",
-          "from_signal": "NONE",
+          "code": "1662",
+          "company_name": "石油資源開発",
+          "type": "hold",
+          "from_signal": "FULL-SELL",
           "to_signal": "PARTIAL-SELL",
           "reason": [
-            "60日高値から-7%超"
+            "高値から-8%超"
           ]
         },
         {
-          "code": "5711",
-          "company_name": "三菱マテリアル",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "NONE",
-          "reason": []
+          "code": "4480",
+          "company_name": "",
+          "type": "hold",
+          "from_signal": "FULL-SELL",
+          "to_signal": "PARTIAL-SELL",
+          "reason": [
+            "高値から-8%超"
+          ]
         },
         {
-          "code": "8766",
-          "company_name": "東京海上ホールディングス",
+          "code": "6965",
+          "company_name": "浜松ホトニクス",
+          "type": "hold",
+          "from_signal": "FULL-SELL",
+          "to_signal": "PARTIAL-SELL",
+          "reason": [
+            "高値から-8%超"
+          ]
+        },
+        {
+          "code": "1605",
+          "company_name": "ＩＮＰＥＸ",
           "type": "watch",
           "from_signal": "FULL-SELL",
           "to_signal": "PARTIAL-SELL",
           "reason": [
-            "60日高値から-7%超"
+            "高値から-8%超"
           ]
         }
       ]
