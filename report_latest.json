@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-04-16T19:31:04+09:00",
+  "generated_at_sheet": "2026-04-16T19:42:10+09:00",
   "report": {
-    "generated_at": "2026-04-16T19:31:10+09:00",
+    "generated_at": "2026-04-16T19:42:15+09:00",
     "mode": "report",
     "items": [
       {
@@ -31,6 +31,7 @@
         "avgTurnover20": 285247239,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 1750,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -72,6 +73,7 @@
         "avgTurnover20": 1284944187,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 2867,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -113,6 +115,7 @@
         "avgTurnover20": 31463546619,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 168,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -154,6 +157,7 @@
         "avgTurnover20": 22960468803,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 5644,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -195,6 +199,7 @@
         "avgTurnover20": 255483896,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 912,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -236,6 +241,7 @@
         "avgTurnover20": 598217225,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 1601,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -278,6 +284,7 @@
         "avgTurnover20": 9486444073,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 936,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -320,6 +327,7 @@
         "avgTurnover20": 261218951,
         "liquidityFilter": false,
         "blackoutBuy": false,
+        "base_price": 4909,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -361,6 +369,7 @@
         "avgTurnover20": 55304504882,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 3483,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -402,6 +411,7 @@
         "avgTurnover20": 82210419596,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": null,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -443,6 +453,7 @@
         "avgTurnover20": 247736115,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 148,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -485,6 +496,7 @@
         "avgTurnover20": 269854274,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 1501,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -527,6 +539,7 @@
         "avgTurnover20": 65754965464,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 2852,
         "signal": "FULL-SELL",
         "label": "🔴 FULL-SELL",
         "reason": [
@@ -569,6 +582,7 @@
         "avgTurnover20": 9878759004,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 1027,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -610,6 +624,7 @@
         "avgTurnover20": 675745749,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": null,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -650,6 +665,7 @@
         "avgTurnover20": 6248466728,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 2230,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -691,6 +707,7 @@
         "avgTurnover20": 3205273338,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 1780,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -732,6 +749,7 @@
         "avgTurnover20": 63168539009,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 4259,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -773,6 +791,7 @@
         "avgTurnover20": 144920859279,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": null,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -813,6 +832,7 @@
         "avgTurnover20": 60091424894,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 7715,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -854,6 +874,7 @@
         "avgTurnover20": 15248185225,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 5502,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -895,6 +916,7 @@
         "avgTurnover20": 8023891089,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 4530,
         "signal": "PARTIAL-SELL",
         "label": "🟠 PARTIAL-SELL",
         "reason": [
@@ -936,6 +958,7 @@
         "avgTurnover20": 332274857,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 1524,
         "signal": "NONE",
         "label": "",
         "reason": [
@@ -971,6 +994,7 @@
         "avgTurnover20": 1425853363,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 6808,
         "signal": "NONE",
         "label": "",
         "reason": [],
@@ -1004,6 +1028,7 @@
         "avgTurnover20": 29256702120,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 5011,
         "signal": "NONE",
         "label": "",
         "reason": [],
@@ -1037,6 +1062,7 @@
         "avgTurnover20": 14457999601,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 4826,
         "signal": "NONE",
         "label": "",
         "reason": [
@@ -1073,6 +1099,7 @@
         "avgTurnover20": 10189300160,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 4680,
         "signal": "NONE",
         "label": "",
         "reason": [],
@@ -1106,6 +1133,7 @@
         "avgTurnover20": 27526428900,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 4066,
         "signal": "NONE",
         "label": "",
         "reason": [],
@@ -1139,6 +1167,7 @@
         "avgTurnover20": 506703690,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": null,
         "signal": "NONE",
         "label": "",
         "reason": [],
@@ -1172,6 +1201,7 @@
         "avgTurnover20": 30857387000,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 2400,
         "signal": "NONE",
         "label": "",
         "reason": [],
@@ -1205,6 +1235,7 @@
         "avgTurnover20": 24934868899,
         "liquidityFilter": true,
         "blackoutBuy": false,
+        "base_price": 2476,
         "signal": "NONE",
         "label": "",
         "reason": [],
