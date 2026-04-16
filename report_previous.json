@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-04-16T19:42:10+09:00",
+  "generated_at_sheet": "2026-04-16T19:58:13+09:00",
   "report": {
-    "generated_at": "2026-04-16T19:42:15+09:00",
+    "generated_at": "2026-04-16T19:58:19+09:00",
     "mode": "report",
     "items": [
       {
@@ -164,13 +164,9 @@
           "終値<SMA75が3日連続"
         ],
         "comment": [
-          "長期線SMA200を下回る",
-          "SMA75<SMA200で長期基調は弱い",
-          "基準価格も下回る",
-          "SMA25傾きマイナス",
-          "値動きはやや大きい"
+          "塩漬け状態"
         ],
-        "stuck_hold": false,
+        "stuck_hold": true,
         "signal_age": 23
       },
       {
@@ -206,13 +202,9 @@
           "終値<SMA75が3日連続"
         ],
         "comment": [
-          "長期線SMA200を下回る",
-          "SMA75<SMA200で長期基調は弱い",
-          "基準価格も下回る",
-          "SMA25傾きマイナス",
-          "値動きは標準的"
+          "塩漬け状態"
         ],
-        "stuck_hold": false,
+        "stuck_hold": true,
         "signal_age": 27
       },
       {
@@ -249,13 +241,9 @@
           "高値から-12%超かつSMA75下"
         ],
         "comment": [
-          "長期線SMA200を下回る",
-          "SMA75<SMA200で長期基調は弱い",
-          "基準価格も下回る",
-          "SMA25傾きマイナス",
-          "値動きは標準的"
+          "塩漬け状態"
         ],
-        "stuck_hold": false,
+        "stuck_hold": true,
         "signal_age": 32
       },
       {
