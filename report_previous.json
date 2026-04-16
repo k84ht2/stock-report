@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-04-16T19:02:01+09:00",
+  "generated_at_sheet": "2026-04-16T19:31:04+09:00",
   "report": {
-    "generated_at": "2026-04-16T19:02:09+09:00",
+    "generated_at": "2026-04-16T19:31:10+09:00",
     "mode": "report",
     "items": [
       {
@@ -1215,49 +1215,8 @@
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "signal変更あり",
-      "items": [
-        {
-          "code": "1662",
-          "company_name": "石油資源開発",
-          "type": "hold",
-          "from_signal": "FULL-SELL",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "高値から-8%超"
-          ]
-        },
-        {
-          "code": "4480",
-          "company_name": "",
-          "type": "hold",
-          "from_signal": "FULL-SELL",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "高値から-8%超"
-          ]
-        },
-        {
-          "code": "6965",
-          "company_name": "浜松ホトニクス",
-          "type": "hold",
-          "from_signal": "FULL-SELL",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "高値から-8%超"
-          ]
-        },
-        {
-          "code": "1605",
-          "company_name": "ＩＮＰＥＸ",
-          "type": "watch",
-          "from_signal": "FULL-SELL",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "高値から-8%超"
-          ]
-        }
-      ]
+      "message": "signal変更なし",
+      "items": []
     }
   }
 }
