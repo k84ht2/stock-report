@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-04-23T13:25:51+09:00",
+  "mode": "single_analysis",
+  "code": "2004",
+  "company_name": "昭和産業",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_2004.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_2004.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "2004",
+    "company_name": "昭和産業",
+    "type": "watch",
+    "price_now": 3060,
+    "prev_close": 3065,
+    "change_day": -0.0016,
+    "change_intraday": null,
+    "close_latest": 3060,
+    "sma5": 3124,
+    "sma25": 3222.6,
+    "sma75": 3243.33,
+    "sma200": 3088.47,
+    "sma25_slope": -10,
+    "sma75_slope": 0.6,
+    "rsi14": 31.03,
+    "atr14": 54.48,
+    "atr14_pct": 0.0178,
+    "abnormal_move": false,
+    "trend_strength": -3.37,
+    "high60": 3455,
+    "drawdown_high": -0.1143,
+    "avgVol20": 67380,
+    "avgTurnover20": 216525630,
+    "liquidityFilter": false,
+    "blackoutBuy": false,
+    "base_price": null,
+    "earnings_date": "Thu May 14 2026 00:00:00 GMT+0900 (日本標準時)",
+    "signal": "FULL-SELL",
+    "label": "🔴 FULL-SELL",
+    "reason": [
+      "終値<SMA75が3日連続"
+    ],
+    "comment": [
+      "長期線SMA200を下回る",
+      "SMA75>SMA200で長期基調は維持",
+      "SMA25傾きマイナス",
+      "値動きは小さめ"
+    ],
+    "stuck_hold": false
+  }
+}
