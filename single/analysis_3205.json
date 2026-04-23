@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T14:14:48+09:00",
+  "generated_at": "2026-04-23T14:17:29+09:00",
   "mode": "single_analysis",
   "code": "3205",
   "company_name": "Daidoh Limited",
@@ -30,8 +30,8 @@
     "trend_strength": -10.45,
     "high60": 1377,
     "drawdown_high": -0.4786,
-    "avgVol20": 393190,
-    "avgTurnover20": 278358861,
+    "avgVol20": 393230,
+    "avgTurnover20": 278387179,
     "liquidityFilter": true,
     "blackoutBuy": false,
     "base_price": null,
@@ -50,5 +50,5 @@
     ],
     "stuck_hold": false
   },
-  "chat_text": "single_analysis\ngenerated_at: 2026-04-23T14:14:48+09:00\ncode: 3205\ncompany_name: Daidoh Limited\ntype: watch\nsignal: FULL-SELL\nbase_price: \nprice_now: 718\nprev_close: 690\nchange_day: 0.0406\nearnings_date: \nreason:\n- 終値<SMA75が3日連続\n- 高値から-12%超かつSMA75下\ncomment:\n- 長期線SMA200を下回る\n- SMA75>SMA200で長期基調は維持\n- SMA25傾きマイナス\n- 値動きはやや大きい\n\nmetrics:\nclose_latest: 718\nsma5: 699.4\nsma25: 734.68\nsma75: 1042.44\nsma200: 1034.59\nsma25_slope: -5.04\nsma75_slope: -6.747\nrsi14: 40.31\natr14: 31.04\natr14_pct: 0.045\ntrend_strength: -10.45\nhigh60: 1377\ndrawdown_high: -0.4786\navgVol20: 393190\navgTurnover20: 278358861\nliquidityFilter: true\nblackoutBuy: false\nmeta_ok: true\n\nhtml_url: https://k84ht2.github.io/stock-report/single/analysis_3205.html\njson_url: https://k84ht2.github.io/stock-report/single/analysis_3205.json"
+  "chat_text": "single_analysis\ngenerated_at: 2026-04-23T14:17:29+09:00\ncode: 3205\ncompany_name: Daidoh Limited\ntype: watch\nsignal: FULL-SELL\nbase_price: \nprice_now: 718\nprev_close: 690\nchange_day: 0.0406\nearnings_date: \nreason:\n- 終値<SMA75が3日連続\n- 高値から-12%超かつSMA75下\ncomment:\n- 長期線SMA200を下回る\n- SMA75>SMA200で長期基調は維持\n- SMA25傾きマイナス\n- 値動きはやや大きい\n\nmetrics:\nclose_latest: 718\nsma5: 699.4\nsma25: 734.68\nsma75: 1042.44\nsma200: 1034.59\nsma25_slope: -5.04\nsma75_slope: -6.747\nrsi14: 40.31\natr14: 31.04\natr14_pct: 0.045\ntrend_strength: -10.45\nhigh60: 1377\ndrawdown_high: -0.4786\navgVol20: 393230\navgTurnover20: 278387179\nliquidityFilter: true\nblackoutBuy: false\nmeta_ok: true\n\nhtml_url: https://k84ht2.github.io/stock-report/single/analysis_3205.html\njson_url: https://k84ht2.github.io/stock-report/single/analysis_3205.json"
 }
