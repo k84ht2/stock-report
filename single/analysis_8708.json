@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-04-23T13:40:23+09:00",
+  "mode": "single_analysis",
+  "code": "8708",
+  "company_name": "Aizawa Securities Group Co., Ltd.",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_8708.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_8708.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "8708",
+    "company_name": "Aizawa Securities Group Co., Ltd.",
+    "type": "watch",
+    "price_now": 1450,
+    "prev_close": 1460,
+    "change_day": -0.0068,
+    "change_intraday": null,
+    "close_latest": 1450,
+    "sma5": 1526,
+    "sma25": 1534.8,
+    "sma75": 1479.36,
+    "sma200": 1398.27,
+    "sma25_slope": -2.6,
+    "sma75_slope": 0.693,
+    "rsi14": 38.94,
+    "atr14": 44.11,
+    "atr14_pct": 0.0302,
+    "abnormal_move": false,
+    "trend_strength": -0.67,
+    "high60": 1646,
+    "drawdown_high": -0.1191,
+    "avgVol20": 282995,
+    "avgTurnover20": 437255575,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "base_price": null,
+    "earnings_date": null,
+    "signal": "FULL-SELL",
+    "label": "🔴 FULL-SELL",
+    "reason": [
+      "終値<SMA75が3日連続"
+    ],
+    "comment": [
+      "長期線SMA200を上回る",
+      "SMA75>SMA200で長期基調は維持",
+      "SMA25傾きマイナス",
+      "値動きは標準的"
+    ],
+    "stuck_hold": false
+  },
+  "chat_text": "single_analysis\ngenerated_at: 2026-04-23T13:40:23+09:00\ncode: 8708\ncompany_name: Aizawa Securities Group Co., Ltd.\ntype: watch\nsignal: FULL-SELL\nbase_price: \nprice_now: 1450\nprev_close: 1460\nchange_day: -0.0068\nearnings_date: \nreason: 終値<SMA75が3日連続\ncomment: 長期線SMA200を上回る / SMA75>SMA200で長期基調は維持 / SMA25傾きマイナス / 値動きは標準的\nhtml_url: https://k84ht2.github.io/stock-report/single/analysis_8708.html\njson_url: https://k84ht2.github.io/stock-report/single/analysis_8708.json\nmeta_ok: true\n\njson:\n{\n  \"generated_at\": \"2026-04-23T13:40:23+09:00\",\n  \"mode\": \"single_analysis\",\n  \"code\": \"8708\",\n  \"company_name\": \"Aizawa Securities Group Co., Ltd.\",\n  \"base_price\": null,\n  \"html_url\": \"https://k84ht2.github.io/stock-report/single/analysis_8708.html\",\n  \"json_url\": \"https://k84ht2.github.io/stock-report/single/analysis_8708.json\",\n  \"meta_ok\": true,\n  \"meta_error\": null,\n  \"item\": {\n    \"code\": \"8708\",\n    \"company_name\": \"Aizawa Securities Group Co., Ltd.\",\n    \"type\": \"watch\",\n    \"price_now\": 1450,\n    \"prev_close\": 1460,\n    \"change_day\": -0.0068,\n    \"change_intraday\": null,\n    \"close_latest\": 1450,\n    \"sma5\": 1526,\n    \"sma25\": 1534.8,\n    \"sma75\": 1479.36,\n    \"sma200\": 1398.27,\n    \"sma25_slope\": -2.6,\n    \"sma75_slope\": 0.693,\n    \"rsi14\": 38.94,\n    \"atr14\": 44.11,\n    \"atr14_pct\": 0.0302,\n    \"abnormal_move\": false,\n    \"trend_strength\": -0.67,\n    \"high60\": 1646,\n    \"drawdown_high\": -0.1191,\n    \"avgVol20\": 282995,\n    \"avgTurnover20\": 437255575,\n    \"liquidityFilter\": true,\n    \"blackoutBuy\": false,\n    \"base_price\": null,\n    \"earnings_date\": null,\n    \"signal\": \"FULL-SELL\",\n    \"label\": \"🔴 FULL-SELL\",\n    \"reason\": [\n      \"終値<SMA75が3日連続\"\n    ],\n    \"comment\": [\n      \"長期線SMA200を上回る\",\n      \"SMA75>SMA200で長期基調は維持\",\n      \"SMA25傾きマイナス\",\n      \"値動きは標準的\"\n    ],\n    \"stuck_hold\": false\n  }\n}"
+}
