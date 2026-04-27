@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-04-27T20:46:53+09:00",
+  "mode": "single_analysis",
+  "code": "5210",
+  "company_name": "Nihon Yamamura Glass Co., Ltd.",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_5210.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_5210.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "5210",
+    "company_name": "Nihon Yamamura Glass Co., Ltd.",
+    "type": "watch",
+    "price_now": 3060,
+    "prev_close": 3140,
+    "change_day": -0.0255,
+    "change_intraday": null,
+    "close_latest": 3060,
+    "sma5": 3075.6,
+    "sma25": 2886.88,
+    "sma75": 3099.73,
+    "sma200": 2885.82,
+    "sma25_slope": 6.28,
+    "sma75_slope": 0.533,
+    "rsi14": 55.5,
+    "atr14": 150.42,
+    "atr14_pct": 0.0479,
+    "abnormal_move": false,
+    "trend_strength": -0.26,
+    "high60": 4020,
+    "drawdown_high": -0.2388,
+    "avgVol20": 170700,
+    "avgTurnover20": 489123780,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "base_price": null,
+    "earnings_date": null,
+    "signal": "FULL-SELL",
+    "label": "🔴 FULL-SELL",
+    "reason": [
+      "高値から-12%超かつSMA75下"
+    ],
+    "comment": [
+      "長期線SMA200を上回る",
+      "SMA75>SMA200で長期基調は維持",
+      "SMA25傾きプラス",
+      "値動きはやや大きい"
+    ],
+    "stuck_hold": false
+  },
+  "chat_text": "single_analysis\ngenerated_at: 2026-04-27T20:46:53+09:00\ncode: 5210\ncompany_name: Nihon Yamamura Glass Co., Ltd.\ntype: watch\nsignal: FULL-SELL\nbase_price: \nprice_now: 3060\nprev_close: 3140\nchange_day: -0.0255\nearnings_date: \nreason:\n- 高値から-12%超かつSMA75下\ncomment:\n- 長期線SMA200を上回る\n- SMA75>SMA200で長期基調は維持\n- SMA25傾きプラス\n- 値動きはやや大きい\n\nmetrics:\nclose_latest: 3060\nsma5: 3075.6\nsma25: 2886.88\nsma75: 3099.73\nsma200: 2885.82\nsma25_slope: 6.28\nsma75_slope: 0.533\nrsi14: 55.5\natr14: 150.42\natr14_pct: 0.0479\ntrend_strength: -0.26\nhigh60: 4020\ndrawdown_high: -0.2388\navgVol20: 170700\navgTurnover20: 489123780\nliquidityFilter: true\nblackoutBuy: false\nmeta_ok: true\n\nhtml_url: https://k84ht2.github.io/stock-report/single/analysis_5210.html\njson_url: https://k84ht2.github.io/stock-report/single/analysis_5210.json"
+}
