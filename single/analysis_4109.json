@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-04-27T20:50:07+09:00",
+  "mode": "single_analysis",
+  "code": "4109",
+  "company_name": "Stella Chemifa Corporation",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_4109.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_4109.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "4109",
+    "company_name": "Stella Chemifa Corporation",
+    "type": "watch",
+    "price_now": 5210,
+    "prev_close": 5000,
+    "change_day": 0.042,
+    "change_intraday": null,
+    "close_latest": 5210,
+    "sma5": 5120,
+    "sma25": 5070.6,
+    "sma75": 5127.73,
+    "sma200": 4523.43,
+    "sma25_slope": 20,
+    "sma75_slope": 9.533,
+    "rsi14": 54.24,
+    "atr14": 163.23,
+    "atr14_pct": 0.0326,
+    "abnormal_move": false,
+    "trend_strength": 0.5,
+    "high60": 5940,
+    "drawdown_high": -0.1229,
+    "avgVol20": 31920,
+    "avgTurnover20": 162065820,
+    "liquidityFilter": false,
+    "blackoutBuy": false,
+    "base_price": null,
+    "earnings_date": null,
+    "signal": "PARTIAL-SELL",
+    "label": "🟠 PARTIAL-SELL",
+    "reason": [
+      "高値から-8%超"
+    ],
+    "comment": [
+      "長期線SMA200を上回る",
+      "SMA75>SMA200で長期基調は維持",
+      "SMA25傾きプラス",
+      "値動きは標準的"
+    ],
+    "stuck_hold": false
+  },
+  "chat_text": "single_analysis\ngenerated_at: 2026-04-27T20:50:07+09:00\ncode: 4109\ncompany_name: Stella Chemifa Corporation\ntype: watch\nsignal: PARTIAL-SELL\nbase_price: \nprice_now: 5210\nprev_close: 5000\nchange_day: 0.042\nearnings_date: \nreason:\n- 高値から-8%超\ncomment:\n- 長期線SMA200を上回る\n- SMA75>SMA200で長期基調は維持\n- SMA25傾きプラス\n- 値動きは標準的\n\nmetrics:\nclose_latest: 5210\nsma5: 5120\nsma25: 5070.6\nsma75: 5127.73\nsma200: 4523.43\nsma25_slope: 20\nsma75_slope: 9.533\nrsi14: 54.24\natr14: 163.23\natr14_pct: 0.0326\ntrend_strength: 0.5\nhigh60: 5940\ndrawdown_high: -0.1229\navgVol20: 31920\navgTurnover20: 162065820\nliquidityFilter: false\nblackoutBuy: false\nmeta_ok: true\n\nhtml_url: https://k84ht2.github.io/stock-report/single/analysis_4109.html\njson_url: https://k84ht2.github.io/stock-report/single/analysis_4109.json"
+}
