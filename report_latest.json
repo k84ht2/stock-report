@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-05-04T13:12:17+09:00",
+  "generated_at_sheet": "2026-05-05T13:12:17+09:00",
   "report": {
-    "generated_at": "2026-05-04T13:12:35+09:00",
+    "generated_at": "2026-05-05T13:12:51+09:00",
     "mode": "report",
     "items": [
       {
@@ -46,7 +46,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "3093",
@@ -89,7 +89,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "8136",
@@ -129,7 +129,7 @@
           "塩漬け状態"
         ],
         "stuck_hold": true,
-        "signal_age": 7
+        "signal_age": 8
       },
       {
         "code": "7867",
@@ -173,7 +173,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 14
+        "signal_age": 15
       },
       {
         "code": "9432",
@@ -216,7 +216,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 16
+        "signal_age": 17
       },
       {
         "code": "4477",
@@ -256,7 +256,7 @@
           "塩漬け状態"
         ],
         "stuck_hold": true,
-        "signal_age": 37
+        "signal_age": 38
       },
       {
         "code": "2678",
@@ -296,7 +296,7 @@
           "塩漬け状態"
         ],
         "stuck_hold": true,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "4755",
@@ -340,7 +340,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "4928",
@@ -383,7 +383,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "6758",
@@ -427,7 +427,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "9424",
@@ -471,7 +471,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "4544",
@@ -513,7 +513,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4980",
@@ -556,7 +556,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "1662",
@@ -598,7 +598,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "3563",
@@ -642,7 +642,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "2004",
@@ -685,7 +685,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 8
+        "signal_age": 9
       },
       {
         "code": "4527",
@@ -728,7 +728,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "4540",
@@ -771,7 +771,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "7532",
@@ -814,7 +814,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "8001",
@@ -857,7 +857,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "8729",
@@ -900,7 +900,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "6203",
@@ -943,7 +943,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "7203",
@@ -987,7 +987,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "7974",
@@ -1030,7 +1030,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 42
+        "signal_age": 43
       },
       {
         "code": "4480",
@@ -1072,7 +1072,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "2681",
@@ -1115,7 +1115,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8088",
@@ -1159,7 +1159,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "9101",
@@ -1202,7 +1202,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 7
+        "signal_age": 8
       },
       {
         "code": "6965",
@@ -1245,7 +1245,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "8002",
@@ -1288,7 +1288,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "6098",
@@ -1330,7 +1330,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "8766",
@@ -1373,7 +1373,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "1605",
@@ -1416,7 +1416,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 6
+        "signal_age": 7
       },
       {
         "code": "5711",
@@ -1459,7 +1459,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 10
+        "signal_age": 11
       },
       {
         "code": "5016",
@@ -1501,7 +1501,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 11
+        "signal_age": 12
       },
       {
         "code": "6981",
@@ -1546,7 +1546,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "7177",
@@ -1589,7 +1589,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2
+        "signal_age": 3
       },
       {
         "code": "6752",
@@ -1635,7 +1635,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 5
+        "signal_age": 6
       },
       {
         "code": "3046",
@@ -1670,7 +1670,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 5
+        "signal_age": 6
       },
       {
         "code": "4022",
@@ -1705,7 +1705,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "4109",
@@ -1743,7 +1743,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1
+        "signal_age": 2
       },
       {
         "code": "8591",
@@ -1780,7 +1780,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 3
+        "signal_age": 4
       },
       {
         "code": "2780",
@@ -1817,74 +1817,13 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 8
+        "signal_age": 9
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "signal変更あり",
-      "items": [
-        {
-          "code": "4480",
-          "company_name": "メドレー",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "高値から-8%超"
-          ]
-        },
-        {
-          "code": "4022",
-          "company_name": "ラサ工業",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "NONE",
-          "reason": []
-        },
-        {
-          "code": "4109",
-          "company_name": "ステラケミファ",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "NONE",
-          "reason": [
-            "SMA25<=SMA75でBUY見送り",
-            "流動性不足でBUY見送り"
-          ]
-        },
-        {
-          "code": "4544",
-          "company_name": "朋友HD",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が3日連続"
-          ]
-        },
-        {
-          "code": "4980",
-          "company_name": "デクセリアルズ",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "reason": [
-            "終値<SMA75が3日連続",
-            "高値から-12%超かつSMA75下"
-          ]
-        },
-        {
-          "code": "8002",
-          "company_name": "丸紅",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "PARTIAL-SELL",
-          "reason": [
-            "高値から-8%超"
-          ]
-        }
-      ]
+      "message": "signal変更なし",
+      "items": []
     }
   }
 }
