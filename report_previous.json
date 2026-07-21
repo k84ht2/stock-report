@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-07-17T20:59:34+09:00",
+  "generated_at_sheet": "2026-07-20T13:12:36+09:00",
   "report": {
-    "generated_at": "2026-07-17T20:59:46+09:00",
+    "generated_at": "2026-07-20T13:13:28+09:00",
     "mode": "report",
     "items": [
       {
@@ -46,7 +46,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -91,7 +91,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -132,7 +132,7 @@
           "塩漬け状態"
         ],
         "stuck_hold": true,
-        "signal_age": 96,
+        "signal_age": 97,
         "from_signal": ""
       },
       {
@@ -175,7 +175,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -218,7 +218,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -262,7 +262,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -306,7 +306,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -351,7 +351,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -395,7 +395,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -439,7 +439,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 12,
+        "signal_age": 13,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -483,7 +483,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 27,
+        "signal_age": 28,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -527,7 +527,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 32,
+        "signal_age": 33,
         "from_signal": "NONE"
       },
       {
@@ -571,7 +571,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 32,
+        "signal_age": 33,
         "from_signal": "NONE"
       },
       {
@@ -616,7 +616,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 37,
+        "signal_age": 38,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -661,7 +661,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 43,
+        "signal_age": 44,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -704,7 +704,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 45,
+        "signal_age": 46,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -749,7 +749,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 52,
+        "signal_age": 53,
         "from_signal": ""
       },
       {
@@ -793,7 +793,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 57,
+        "signal_age": 58,
         "from_signal": ""
       },
       {
@@ -838,7 +838,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 96,
+        "signal_age": 97,
         "from_signal": ""
       },
       {
@@ -882,7 +882,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 96,
+        "signal_age": 97,
         "from_signal": ""
       },
       {
@@ -926,7 +926,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 4,
+        "signal_age": 5,
         "from_signal": "NONE"
       },
       {
@@ -970,7 +970,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1013,7 +1013,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": ""
       },
       {
@@ -1058,7 +1058,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "NONE"
       },
       {
@@ -1101,7 +1101,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "NONE"
       },
       {
@@ -1145,7 +1145,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 12,
+        "signal_age": 13,
         "from_signal": "NONE"
       },
       {
@@ -1183,7 +1183,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1222,7 +1222,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1260,7 +1260,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1296,7 +1296,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 3,
+        "signal_age": 4,
         "from_signal": "BUY"
       },
       {
@@ -1334,7 +1334,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1372,7 +1372,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1410,7 +1410,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1446,7 +1446,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 10,
+        "signal_age": 11,
         "from_signal": "BUY"
       },
       {
@@ -1482,7 +1482,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 14,
+        "signal_age": 15,
         "from_signal": "BUY"
       },
       {
@@ -1518,7 +1518,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 16,
+        "signal_age": 17,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1554,7 +1554,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 16,
+        "signal_age": 17,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1590,7 +1590,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 20,
+        "signal_age": 21,
         "from_signal": "BUY"
       },
       {
@@ -1629,8 +1629,40 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 37,
+        "signal_age": 38,
         "from_signal": "BUY"
+      },
+      {
+        "code": "5108",
+        "company_name": "ブリヂストン",
+        "type": "watch",
+        "price_now": null,
+        "prev_close": null,
+        "change_day": null,
+        "change_intraday": null,
+        "sma5": null,
+        "sma25": null,
+        "sma75": null,
+        "sma200": null,
+        "rsi14": null,
+        "atr14": null,
+        "atr14_pct": null,
+        "abnormal_move": null,
+        "high60": null,
+        "drawdown_high": null,
+        "avgVol20": null,
+        "avgTurnover20": null,
+        "liquidityFilter": null,
+        "blackoutBuy": false,
+        "signal": "NONE",
+        "label": "",
+        "reason": [
+          "価格取得不可（OHLCV不足）"
+        ],
+        "comment": [],
+        "stuck_hold": false,
+        "signal_age": 1,
+        "from_signal": ""
       },
       {
         "code": "4568",
@@ -1667,7 +1699,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1705,7 +1737,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1743,7 +1775,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1781,7 +1813,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 4,
+        "signal_age": 5,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1817,7 +1849,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 6,
+        "signal_age": 7,
         "from_signal": "BUY"
       },
       {
@@ -1855,7 +1887,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "BUY"
       },
       {
@@ -1893,7 +1925,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1929,7 +1961,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1965,7 +1997,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1997,7 +2029,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 13,
+        "signal_age": 14,
         "from_signal": ""
       },
       {
@@ -2035,92 +2067,14 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 29,
+        "signal_age": 30,
         "from_signal": "FULL-SELL"
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "signal変更あり",
-      "items": [
-        {
-          "code": "6965",
-          "company_name": "浜松ホトニクス",
-          "type": "hold",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "earnings_date": "2026-05-14",
-          "reason": [
-            "高値から-12%超かつSMA75下"
-          ]
-        },
-        {
-          "code": "9432",
-          "company_name": "ＮＴＴ",
-          "type": "hold",
-          "from_signal": "FULL-SELL",
-          "to_signal": "NONE",
-          "earnings_date": "2026-05-08",
-          "reason": [
-            "SMA25<=SMA75でBUY見送り"
-          ]
-        },
-        {
-          "code": "2780",
-          "company_name": "コメ兵",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "earnings_date": "2026-05-14",
-          "reason": [
-            "高値から-12%超かつSMA75下"
-          ]
-        },
-        {
-          "code": "4568",
-          "company_name": "第一三共",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "NONE",
-          "earnings_date": "",
-          "reason": [
-            "SMA25<=SMA75でBUY見送り"
-          ]
-        },
-        {
-          "code": "4980",
-          "company_name": "デクセリアルズ",
-          "type": "watch",
-          "from_signal": "PARTIAL-SELL",
-          "to_signal": "FULL-SELL",
-          "earnings_date": "2026-05-13",
-          "reason": [
-            "高値から-12%超かつSMA75下"
-          ]
-        },
-        {
-          "code": "7532",
-          "company_name": "ドンキ　パンパシ",
-          "type": "watch",
-          "from_signal": "FULL-SELL",
-          "to_signal": "NONE",
-          "earnings_date": "2026-08-18",
-          "reason": [
-            "SMA25<=SMA75でBUY見送り"
-          ]
-        },
-        {
-          "code": "9101",
-          "company_name": "日本郵船",
-          "type": "watch",
-          "from_signal": "FULL-SELL",
-          "to_signal": "NONE",
-          "earnings_date": "2026-05-11",
-          "reason": [
-            "SMA25<=SMA75でBUY見送り"
-          ]
-        }
-      ]
+      "message": "signal変更なし",
+      "items": []
     }
   }
 }
