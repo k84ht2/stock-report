@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-07-27T13:50:47+09:00",
+  "mode": "single_analysis",
+  "code": "5332",
+  "company_name": "TOTO LTD.",
+  "base_price": null,
+  "html_url": "https://k84ht2.github.io/stock-report/single/analysis_5332.html",
+  "json_url": "https://k84ht2.github.io/stock-report/single/analysis_5332.json",
+  "meta_ok": true,
+  "meta_error": null,
+  "item": {
+    "code": "5332",
+    "company_name": "TOTO LTD.",
+    "type": "watch",
+    "price_now": 7438,
+    "prev_close": 7422,
+    "change_day": 0.0022,
+    "change_intraday": null,
+    "close_latest": 7438,
+    "sma5": 7512,
+    "sma25": 8181.92,
+    "sma75": 7210.52,
+    "sma200": 5651.34,
+    "sma25_slope": -38.08,
+    "sma75_slope": 28.907,
+    "rsi14": 38.79,
+    "atr14": 315.88,
+    "atr14_pct": 0.0426,
+    "abnormal_move": false,
+    "trend_strength": 0.72,
+    "high60": 9500,
+    "drawdown_high": -0.2171,
+    "avgVol20": 1123805,
+    "avgTurnover20": 9006060890,
+    "liquidityFilter": true,
+    "blackoutBuy": false,
+    "base_price": null,
+    "earnings_date": null,
+    "signal": "PARTIAL-SELL",
+    "label": "🟠 PARTIAL-SELL",
+    "reason": [
+      "高値から-8%超"
+    ],
+    "comment": [
+      "長期線SMA200を上回る",
+      "SMA75>SMA200で長期基調は維持",
+      "SMA25傾きマイナス",
+      "値動きはやや大きい"
+    ],
+    "stuck_hold": false
+  },
+  "chat_text": "single_analysis\ngenerated_at: 2026-07-27T13:50:47+09:00\ncode: 5332\ncompany_name: TOTO LTD.\ntype: watch\nsignal: PARTIAL-SELL\nbase_price: \nprice_now: 7438\nprev_close: 7422\nchange_day: 0.0022\nearnings_date: \nreason:\n- 高値から-8%超\ncomment:\n- 長期線SMA200を上回る\n- SMA75>SMA200で長期基調は維持\n- SMA25傾きマイナス\n- 値動きはやや大きい\n\nmetrics:\nclose_latest: 7438\nsma5: 7512\nsma25: 8181.92\nsma75: 7210.52\nsma200: 5651.34\nsma25_slope: -38.08\nsma75_slope: 28.907\nrsi14: 38.79\natr14: 315.88\natr14_pct: 0.0426\ntrend_strength: 0.72\nhigh60: 9500\ndrawdown_high: -0.2171\navgVol20: 1123805\navgTurnover20: 9006060890\nliquidityFilter: true\nblackoutBuy: false\nmeta_ok: true\n\nhtml_url: https://k84ht2.github.io/stock-report/single/analysis_5332.html\njson_url: https://k84ht2.github.io/stock-report/single/analysis_5332.json"
+}
