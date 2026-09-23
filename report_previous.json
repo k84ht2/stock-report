@@ -1,8 +1,8 @@
 {
   "source": "report_sheet_last_row",
-  "generated_at_sheet": "2026-09-21T13:16:23+09:00",
+  "generated_at_sheet": "2026-09-22T13:12:11+09:00",
   "report": {
-    "generated_at": "2026-09-21T13:17:33+09:00",
+    "generated_at": "2026-09-22T13:12:23+09:00",
     "mode": "report",
     "items": [
       {
@@ -43,7 +43,7 @@
           "塩漬け状態"
         ],
         "stuck_hold": true,
-        "signal_age": 15,
+        "signal_age": 16,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -88,7 +88,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 51,
+        "signal_age": 52,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -132,7 +132,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -177,7 +177,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 9,
+        "signal_age": 10,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -220,7 +220,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 11,
+        "signal_age": 12,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -264,7 +264,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 12,
+        "signal_age": 13,
         "from_signal": "NONE"
       },
       {
@@ -308,7 +308,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 15,
+        "signal_age": 16,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -353,7 +353,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 15,
+        "signal_age": 16,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -397,7 +397,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 16,
+        "signal_age": 17,
         "from_signal": "NONE"
       },
       {
@@ -441,7 +441,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 22,
+        "signal_age": 23,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -486,7 +486,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 24,
+        "signal_age": 25,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -530,7 +530,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 24,
+        "signal_age": 25,
         "from_signal": "NONE"
       },
       {
@@ -574,7 +574,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 40,
+        "signal_age": 41,
         "from_signal": ""
       },
       {
@@ -618,7 +618,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 40,
+        "signal_age": 41,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -662,7 +662,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 40,
+        "signal_age": 41,
         "from_signal": ""
       },
       {
@@ -707,7 +707,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 40,
+        "signal_age": 41,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -751,7 +751,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 55,
+        "signal_age": 56,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -795,7 +795,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "FULL-SELL"
       },
       {
@@ -839,7 +839,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "CHECK-SELL"
       },
       {
@@ -882,7 +882,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "CHECK-SELL"
       },
       {
@@ -926,7 +926,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "CHECK-SELL"
       },
       {
@@ -970,7 +970,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 8,
+        "signal_age": 9,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1014,7 +1014,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "NONE"
       },
       {
@@ -1058,7 +1058,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1102,7 +1102,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1146,7 +1146,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "NONE"
       },
       {
@@ -1190,7 +1190,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1234,7 +1234,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "NONE"
       },
       {
@@ -1277,7 +1277,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1320,7 +1320,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1363,7 +1363,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 3,
+        "signal_age": 4,
         "from_signal": "NONE"
       },
       {
@@ -1407,7 +1407,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 4,
+        "signal_age": 5,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1451,7 +1451,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 6,
+        "signal_age": 7,
         "from_signal": "FULL-SELL"
       },
       {
@@ -1494,7 +1494,7 @@
           "値動きはやや大きい"
         ],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -1539,7 +1539,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "NONE"
       },
       {
@@ -1585,7 +1585,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "NONE"
       },
       {
@@ -1630,7 +1630,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 3,
+        "signal_age": 4,
         "from_signal": "NONE"
       },
       {
@@ -1675,7 +1675,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 6,
+        "signal_age": 7,
         "from_signal": "NONE"
       },
       {
@@ -1721,7 +1721,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "NONE"
       },
       {
@@ -1767,7 +1767,7 @@
           "値動きは小さめ"
         ],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "NONE"
       },
       {
@@ -1811,7 +1811,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "CHECK-SELL"
       },
       {
@@ -1855,7 +1855,7 @@
           "値動きは標準的"
         ],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "NONE"
       },
       {
@@ -1891,7 +1891,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "CHECK-SELL"
       },
       {
@@ -1927,7 +1927,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "BUY"
       },
       {
@@ -1963,7 +1963,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 2,
+        "signal_age": 3,
         "from_signal": "BUY"
       },
       {
@@ -1999,7 +1999,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 3,
+        "signal_age": 4,
         "from_signal": "BUY"
       },
       {
@@ -2035,7 +2035,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 5,
+        "signal_age": 6,
         "from_signal": "BUY"
       },
       {
@@ -2071,7 +2071,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -2107,7 +2107,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 18,
+        "signal_age": 19,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -2143,7 +2143,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "CHECK-SELL"
       },
       {
@@ -2179,7 +2179,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 1,
+        "signal_age": 2,
         "from_signal": "BUY"
       },
       {
@@ -2215,7 +2215,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 6,
+        "signal_age": 7,
         "from_signal": "BUY"
       },
       {
@@ -2251,7 +2251,7 @@
         "reason": [],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 7,
+        "signal_age": 8,
         "from_signal": "PARTIAL-SELL"
       },
       {
@@ -2283,7 +2283,7 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 59,
+        "signal_age": 60,
         "from_signal": ""
       },
       {
@@ -2321,85 +2321,14 @@
         ],
         "comment": [],
         "stuck_hold": false,
-        "signal_age": 75,
+        "signal_age": 76,
         "from_signal": "FULL-SELL"
       }
     ],
     "signal_changes": {
       "status": "ok",
-      "message": "signal変更あり",
-      "items": [
-        {
-          "code": "2681",
-          "company_name": "ゲオホールディングス",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "BUY",
-          "earnings_date": "",
-          "reason": [
-            "高値から-5〜-8%の押し目",
-            "5日線反転を確認"
-          ]
-        },
-        {
-          "code": "4765",
-          "company_name": "SBIアセット",
-          "type": "hold",
-          "from_signal": "CHECK-SELL",
-          "to_signal": "NONE",
-          "earnings_date": "",
-          "reason": []
-        },
-        {
-          "code": "4928",
-          "company_name": "ノエビアHD",
-          "type": "hold",
-          "from_signal": "NONE",
-          "to_signal": "CHECK-SELL",
-          "earnings_date": "",
-          "reason": [
-            "SMA25下抜け：SMA25傾きは非マイナス"
-          ]
-        },
-        {
-          "code": "5019",
-          "company_name": "出光興産",
-          "type": "hold",
-          "from_signal": "BUY",
-          "to_signal": "NONE",
-          "earnings_date": "",
-          "reason": []
-        },
-        {
-          "code": "2432",
-          "company_name": "DeNA",
-          "type": "watch",
-          "from_signal": "CHECK-SELL",
-          "to_signal": "NONE",
-          "earnings_date": "",
-          "reason": []
-        },
-        {
-          "code": "8002",
-          "company_name": "丸紅",
-          "type": "watch",
-          "from_signal": "NONE",
-          "to_signal": "CHECK-SELL",
-          "earnings_date": "2026-08-03",
-          "reason": [
-            "SMA25下抜け：SMA25傾きは非マイナス"
-          ]
-        },
-        {
-          "code": "8766",
-          "company_name": "東京海上HD",
-          "type": "watch",
-          "from_signal": "BUY",
-          "to_signal": "NONE",
-          "earnings_date": "",
-          "reason": []
-        }
-      ]
+      "message": "signal変更なし",
+      "items": []
     }
   }
 }
